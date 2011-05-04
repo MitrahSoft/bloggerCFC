@@ -1,0 +1,24 @@
+Google Blogger CFC
+created by: CF Mitrah(oss@cfmitrah.com)
+version: 1.0
+released on: 04/20/2011
+
+Version History:
+1.0:	First public release.
+
+About:
+	This is a ColdFusion wrapper CFC for Google Blogger API.
+	The Google authentication code and few API call syntax for this CFC are taken from http://cfgoogle.riaforge.org & http://youtubecfc.riaforge.org
+
+Using this wrapper CFC, you can do following tasks,
+	Get your blog list
+	Get list of all posts for a blog
+	Create a new or drafted post
+	Update a post
+	Delete a post
+	Get list of all comments for a blog post
+	Add a comment to a blog post
+	Delete a comment in a post
+
+Credits:
+	Thanks to Raymond Camden - coldfusion jedi master
